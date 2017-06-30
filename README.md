@@ -1,4 +1,7 @@
 # Balancing-Robot-V1.0
+/// THIS IS STILL A WORK IN PROGRESS \\\
+/// More tunning of the control variables is needed for the bluetooth control to be smooth \\\
+
 Code for self balancing robot made by Heriberto Leyva Diaz de Leon. This code incorporates: 
 - The DMP( Direct Motion Processing)  of the MPU 9250
 - Self made PID control loop(to balance the robot) with in a PD control loop( to maintain a fixed position).
@@ -20,5 +23,5 @@ Bill of important materials:
 
 Video presentation: ( LINK PENDING )
 
-
+Future work when this arduino part is at 100%, Raspberry Pi control with Open CV image processing. 
 
