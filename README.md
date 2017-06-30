@@ -6,6 +6,18 @@ Code for self balancing robot made by Heriberto Leyva Diaz de Leon. This code in
 - Direct register manipulation for fast processing 
 - Intterupt attachment for the encoders 
 
+CAD files were made in the Fusion 360 software (it is free, FYI).
+
+Bill of important materials: 
+- Pololu 37D 30:1 motor with encoder
+- Dual VNH 5019 motor driver
+- MPU 9250 
+- Arduino UNO
+- 1/4 inch  threaded steel rods
+- HC-06 Bluetooth module 
+- Turnigy 5000 mAh 20C LIPO battery 
+- Wild Thumper wheels from Pololu (GREATLY RECOMENDED)
+
 Video presentation: ( LINK PENDING )
 
 
