@@ -21,7 +21,7 @@ Bill of important materials:
 - Turnigy 5000 mAh 20C LIPO battery 
 - Wild Thumper wheels from Pololu (GREATLY RECOMENDED)
 
-Video presentation: ( LINK PENDING )
+Video presentation: ( PENDING )
 
 Future work when this arduino part is at 100%, Raspberry Pi control with Open CV image processing. 
 
