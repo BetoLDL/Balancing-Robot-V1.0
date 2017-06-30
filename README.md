@@ -1,6 +1,6 @@
 # Balancing-Robot-V1.0
-/// THIS IS STILL A WORK IN PROGRESS \\\
-/// More tunning of the control variables is needed for the bluetooth control to be smooth \\\
+///THIS IS STILL A WORK IN PROGRESS 
+///More tunning of the control variables is needed for the bluetooth control to be smooth 
 
 Code for self balancing robot made by Heriberto Leyva Diaz de Leon. This code incorporates: 
 - The DMP( Direct Motion Processing)  of the MPU 9250
