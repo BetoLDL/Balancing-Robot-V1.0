@@ -2,6 +2,8 @@
 ///THIS IS STILL A WORK IN PROGRESS 
 ///More tunning of the control variables is needed for the bluetooth control to be smooth 
 
+Video presentation: https://youtu.be/kiIgf5LplvQ
+
 Code for self balancing robot made by Heriberto Leyva Diaz de Leon. This code incorporates: 
 - The DMP( Direct Motion Processing)  of the MPU 9250
 - Self made PID control loop(to balance the robot) with in a PD control loop( to maintain a fixed position).
@@ -20,8 +22,6 @@ Bill of important materials:
 - HC-06 Bluetooth module 
 - Turnigy 5000 mAh 20C LIPO battery 
 - Wild Thumper wheels from Pololu (GREATLY RECOMENDED)
-
-Video presentation: ( PENDING )
 
 Future work when this arduino part is at 100%, Raspberry Pi control with Open CV image processing. 
 
