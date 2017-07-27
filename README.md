@@ -1,6 +1,5 @@
 # Balancing-Robot-V1.0
 ///THIS IS STILL A WORK IN PROGRESS 
-///More tunning of the control variables is needed for the bluetooth control to be smooth 
 
 Video presentation: https://youtu.be/kiIgf5LplvQ
 
