@@ -1,7 +1,7 @@
 # Balancing-Robot-V1.0
 ///THIS IS STILL A WORK IN PROGRESS 
 
-Video presentation: https://youtu.be/kiIgf5LplvQ
+Video presentation: https://youtu.be/OWX0TR5iLnE
 
 Code for self balancing robot made by Heriberto Leyva Diaz de Leon. This code incorporates: 
 - The DMP( Direct Motion Processing)  of the MPU 9250
